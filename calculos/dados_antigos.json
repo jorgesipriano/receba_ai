@@ -1,0 +1,395 @@
+[
+  {
+    "nomeCliente": "FABRÍCIO",
+    "vendas": []
+  },
+  {
+    "nomeCliente": "CLEMILSON",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "TORRESMO",
+        "quantidade": 2,
+        "valorUnitario": 2.5
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "PICHULINHA",
+        "quantidade": 4,
+        "valorUnitario": 3.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "DANIX",
+        "quantidade": 1,
+        "valorUnitario": 4.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "SAM MARINO",
+        "quantidade": 1,
+        "valorUnitario": 5.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "ESQUEIRO",
+        "quantidade": 1,
+        "valorUnitario": 3.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "CIGARRO",
+        "quantidade": 5,
+        "valorUnitario": 1.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "COXINHA",
+        "quantidade": 2,
+        "valorUnitario": 5.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "DOCE",
+        "quantidade": 1,
+        "valorUnitario": 3.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "MARMITEX",
+        "quantidade": 3,
+        "valorUnitario": 13.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "ELIZA",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "COCA LATA",
+        "quantidade": 2,
+        "valorUnitario": 5.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "PAÇOCA",
+        "quantidade": 2,
+        "valorUnitario": 0.5
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "MARMITA",
+        "quantidade": 1,
+        "valorUnitario": 17.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "PICHULINHA",
+        "quantidade": 1,
+        "valorUnitario": 3.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "TRENTO",
+        "quantidade": 1,
+        "valorUnitario": 3.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "KS",
+        "quantidade": 1,
+        "valorUnitario": 4.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "GULÃO",
+        "quantidade": 2,
+        "valorUnitario": 5.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "CORANTE",
+        "quantidade": 1,
+        "valorUnitario": 2.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "BATATINHA",
+        "quantidade": 2,
+        "valorUnitario": 3.5
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "VITAMINA",
+        "quantidade": 3,
+        "valorUnitario": 3.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "JOÃO (LOLÓ)",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "SAM MARINO",
+        "quantidade": 2,
+        "valorUnitario": 0.5
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "LATÃO KAISER",
+        "quantidade": 3,
+        "valorUnitario": 5.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "OSVALDO",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "MARMITA",
+        "quantidade": 3,
+        "valorUnitario": 17.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "FRESH",
+        "quantidade": 1,
+        "valorUnitario": 2.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "PICHULINHA",
+        "quantidade": 1,
+        "valorUnitario": 3.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "COXA DE FRANGO",
+        "quantidade": 3,
+        "valorUnitario": 5.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "TONY",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "PINGA",
+        "quantidade": 7,
+        "valorUnitario": 3.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "SALGADO",
+        "quantidade": 1,
+        "valorUnitario": 5.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "ROSANA",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "GUARANÁ 2L",
+        "quantidade": 2,
+        "valorUnitario": 10.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "PORTO FARIA",
+        "quantidade": 7,
+        "valorUnitario": 2.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "MAMITEX",
+        "quantidade": 1,
+        "valorUnitario": 17.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "BRAMAH LATA",
+        "quantidade": 1,
+        "valorUnitario": 6.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "BRAMAH 600",
+        "quantidade": 3,
+        "valorUnitario": 10.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "LAINE",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "PINGA",
+        "quantidade": 1,
+        "valorUnitario": 3.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "SALGADO",
+        "quantidade": 1,
+        "valorUnitario": 5.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "VILMA (PIT BULL)",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "BATIDA",
+        "quantidade": 1,
+        "valorUnitario": 5.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "SALGADO",
+        "quantidade": 2,
+        "valorUnitario": 5.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "REIS",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "PINGA",
+        "quantidade": 14,
+        "valorUnitario": 3.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "LITRINHO",
+        "quantidade": 3,
+        "valorUnitario": 3.5
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "BRAMAH 600",
+        "quantidade": 1,
+        "valorUnitario": 10.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "BATATINHA",
+        "quantidade": 2,
+        "valorUnitario": 4.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "LATÃO BRAMAH",
+        "quantidade": 9,
+        "valorUnitario": 6.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "COLORAL",
+        "quantidade": 1,
+        "valorUnitario": 2.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "ANDRESSA",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "BRAMAH LATÃO",
+        "quantidade": 1,
+        "valorUnitario": 6.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "TIO WILSON",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "PINGA",
+        "quantidade": 5,
+        "valorUnitario": 3.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "THIAGO",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "PINGA",
+        "quantidade": 7,
+        "valorUnitario": 3.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "CIGARRO",
+        "quantidade": 1,
+        "valorUnitario": 1.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "BRAMAH 600",
+        "quantidade": 1,
+        "valorUnitario": 10.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "COXINHA",
+        "quantidade": 1,
+        "valorUnitario": 5.0
+      }
+    ]
+  },
+  {
+    "nomeCliente": "BAHIANO",
+    "vendas": [
+      {
+        "data": "2025-07-28",
+        "produto": "PINGA",
+        "quantidade": 5,
+        "valorUnitario": 3.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "CIGARRO",
+        "quantidade": 8,
+        "valorUnitario": 1.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "GARRAFINHA",
+        "quantidade": 3,
+        "valorUnitario": 5.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "KS",
+        "quantidade": 1,
+        "valorUnitario": 4.0
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "LITRINHO",
+        "quantidade": 1,
+        "valorUnitario": 3.5
+      },
+      {
+        "data": "2025-07-28",
+        "produto": "BISCOITO",
+        "quantidade": 2,
+        "valorUnitario": 4.0
+      }
+    ]
+  }
+]

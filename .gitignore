@@ -1,0 +1,15 @@
+# Arquivo de variáveis de ambiente
+.env
+
+# Dependências do Node.js
+node_modules/
+
+# Chaves e Credenciais
+credentials_audio.json
+supabaseClient.js
+
+# Outros arquivos que podem conter chaves (adicione se necessário)
+# auth_receba_ai
+
+# Logs
+*.log
